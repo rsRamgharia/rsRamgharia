@@ -1,7 +1,7 @@
 Hi 👋 My name is Robin singh
 ============================
 
-Full stack web Developer
+Software Engineer
 ------------------------
 
 I've worked on multiple exciting projects for companies as well as a freelancer over the years. I'll build any web or mobile application using any framework like Angular, React, Vue, Node, Ionic, or Laravel. You need to provide the documentation or design of the app. I do develop and designing both mobile and web applications.
